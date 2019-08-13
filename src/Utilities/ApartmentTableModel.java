@@ -2,14 +2,7 @@
 package Utilities;
 
 import Classes.Apartment;
-import Classes.Booking;
-import Dal.ConnectionDetails;
 import Dal.DataAccess;
-import com.mysql.jdbc.Connection;
-import java.sql.DriverManager;
-import java.sql.ResultSet;
-import java.sql.SQLException;
-import java.sql.Statement;
 import java.util.ArrayList;
 import javax.swing.table.AbstractTableModel;
 
